@@ -2,7 +2,15 @@
 
 <img src="https://raw.githubusercontent.com/twoer/dads/master/images/qrcode_for_gh_4e734ed7f5e0_1280.jpg" width = "200px" />
 
-> 该系列文章将不在 Github 上更新，所有文章都会放到 微信公众号 中，欢迎关注。
+> **该系列文章将不在 Github 上更新，所有文章都会放到 微信公众号 中，欢迎关注。**
+
+</br>
+</br>
+</br>
+
+
+
+
 
 
 
