@@ -1,5 +1,10 @@
 ### 分享作为奶爸这个角色的 生娃、育娃经验
 
+![image](https://raw.githubusercontent.com/twoer/dads/master/images/qrcode_for_gh_4e734ed7f5e0_1280.jpg)
+
+> 该系列文章将不在 Github 上更新，所有文章都会放到 微信公众号 中，欢迎关注。
+
+
 
 | 基础情况|  |
 |:--------|:--------|
